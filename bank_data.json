@@ -1,0 +1,18 @@
+{
+    "users": {
+        "admiin": {
+            "password": "123",
+            "card_number": "8132532911485642",
+            "card_view": "8132 5329 1148 5642",
+            "cvv": "263",
+            "expiry": "03/29",
+            "usd": 1000.0,
+            "uah": 0.0,
+            "credit_debt": 0.0,
+            "credit_due_timestamp": null,
+            "transactions": [],
+            "portfolio": {},
+            "deposits": []
+        }
+    }
+}
